@@ -1,0 +1,7 @@
+{
+    "editor.cursorStyle": "block",
+    "files.autoSave": "afterDelay",
+    "files.associations": {
+        "ostream": "cpp"
+    }
+}
